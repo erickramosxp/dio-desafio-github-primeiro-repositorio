@@ -1,0 +1,36 @@
+Comandos
+
+Windows
+
+-cd(changer direction) = se mover entre pastar (cd + /, para ir para o diretorio
+        principal), (cd + nome do diretorio, para se mover para dentro do diretorio)
+
+-cls = limpar a tela do terminal 
+
+-A tecla TAB auto completa o texto ou nome a ser digitado
+
+-dir = Listar de diretorios do usuario atual
+
+-mkdir = cria uma nova pasta
+
+-echo = imprime na tela uma mesagem que voce mesmo digitou( echo hello 
+	[direcionamento para um arquivo] > hello.txt
+
+-del / rmdir = - comando del deleta somente os arquivo, não a pasta.
+	       - comando rmdir deleta o diretorio e os arquivos com o comando
+		 (rmdir + [nome da pasta] + /S /Q)
+
+--stdin = arquivo de texto
+
+
+        --- Git é Complicado ---
+
+- git init = iniciar o versionamento é mover arquivos
+
+- git add = 
+
+-git commit = 
+
+-a = mostra arquivos ocultos
+
+-git status = monitorar os status do arquivo
